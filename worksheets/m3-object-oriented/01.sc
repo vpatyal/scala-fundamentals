@@ -17,3 +17,7 @@ bobMartin.last = "Martin"
 var taylorJackson = new Employee
 taylorJackson.first = "Taylor"
 taylorJackson.last = "Jackson"
+
+var jimSmith = new Employee
+taylorJackson.first = "Jim"
+taylorJackson.last = "Smith"
