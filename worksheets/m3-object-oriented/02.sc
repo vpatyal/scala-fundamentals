@@ -15,3 +15,4 @@ taylorJackson.first = "Taylor"
 taylorJackson.last = "Jackson"
 
 bobMartin = taylorJackson
+println(bobMartin.first + " " + bobMartin.last)

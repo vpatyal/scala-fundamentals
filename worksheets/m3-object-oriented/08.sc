@@ -23,7 +23,9 @@ class Employee(f: String, l: String, s: Int) {
   private var stocks: Int = s
 
   def getFirst = first
+
   def getLast = last
+
   def getStocks = stocks
 
   def awardMoreStocks(numberOfStocks: Int): Unit = stocks += numberOfStocks
